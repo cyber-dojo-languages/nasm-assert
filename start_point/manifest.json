@@ -1,5 +1,7 @@
 
 {
+  "display_name": "Asm, assert",
+
   "visible_filenames": [
    "hiker.tests.c",
    "hiker.h",
@@ -7,12 +9,9 @@
    "makefile",
    "cyber-dojo.sh"
   ],
+  "image_name": "cyberdojofoundation/nasm_assert",
 
   "filename_extension" : ".asm",
-
-  "display_name": "Asm, assert",
-
-  "image_name": "cyberdojofoundation/nasm_assert",
 
   "runner_choice": "stateless"
 }
