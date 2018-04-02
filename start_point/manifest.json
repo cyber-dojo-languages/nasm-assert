@@ -11,7 +11,7 @@
   ],
   "image_name": "cyberdojofoundation/nasm_assert",
 
-  "filename_extension" : ".asm",
+  "filename_extension": [ ".asm", ".h", ".c" ],
 
   "runner_choice": "stateless"
 }
