@@ -1,4 +1,4 @@
-FROM  cyberdojofoundation/nasm:39d6e20
+FROM ghcr.io/cyber-dojo-languages/nasm:b3aab7a
 LABEL maintainer=jon@jaggersoft.com
 
 COPY red_amber_green.rb /usr/local/bin
