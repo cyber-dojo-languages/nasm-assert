@@ -1,2 +1,2 @@
-FROM ghcr.io/cyber-dojo-languages/nasm:b3aab7a
+FROM ghcr.io/cyber-dojo-languages/nasm:7e8282d
 LABEL maintainer=jon@jaggersoft.com
